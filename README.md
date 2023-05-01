@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattYeend
-- 👀 I’m interested in PHP/MySQL/Laravel/Magento
-- 🌱 I’m currently learning more PHP/Laravel/Magento APIs
+- 👀 I’m interested in PHP/MySQL/Laravel
+- 🌱 I’m currently learning more PHP/Laravel
 - 💞️ I’m looking to collaborate on anything web based
 
 <!---
