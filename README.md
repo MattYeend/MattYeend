@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MattYeend
-- 👀 I’m interested in PHP/MySQL/Laravel
 - 🌱 I’m currently learning more PHP/Laravel
-- 💞️ I’m looking to collaborate on anything web based
+- 👀 I’m looking to collaborate on anything web based
 
 <!---
 MattYeend/MattYeend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
