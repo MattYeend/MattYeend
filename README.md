@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MattYeend<br>🌱 I’m currently learning more PHP/Laravel<br>👀 I’m looking to collaborate on anything web based
+👋 Hi, I’m @MattYeend<br>🌱 I’m currently learning more PHP/Laravel<br>👀 I’m looking to collaborate on anything web, PHP, or Laravel based
 
 
 # 💻 Tech Stack:
