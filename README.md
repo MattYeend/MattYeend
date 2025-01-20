@@ -10,8 +10,8 @@
 
 ## 🎁 Donate:
 ![](https://buymeacoffee.com/mattyeend)<br/>
-![Personal Github](https://github.com/sponsors/MattYeend)<br/>
-![Company Github](https://github.com/sponsors/MatthewYeend)
+![](https://github.com/sponsors/MattYeend)<br/>
+![](https://github.com/sponsors/MatthewYeend)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MattYeend&theme=radical&no-frame=false&no-bg=true&margin-w=4)
