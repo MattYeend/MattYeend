@@ -9,9 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattYeend&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎁 Donate:
-![](https://buymeacoffee.com/mattyeend)<br/>
-![](https://github.com/sponsors/MattYeend)<br/>
-![](https://github.com/sponsors/MatthewYeend)
+[Buy Me a Coffee](https://buymeacoffee.com/mattyeend)<br/>
+[Sponsor Me on GitHub](https://github.com/sponsors/MattYeend)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MattYeend&theme=radical&no-frame=false&no-bg=true&margin-w=4)
