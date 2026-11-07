@@ -18,12 +18,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repositories
-![](https://github-readme-stats.vercel.app/api/pin/?username=MattYeend&repo=business-suite&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=MattYeend&repo=Python&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=MattYeend&repo=Java&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=MatthewYeend&repo=Python-Best-Practices&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=MatthewYeend&repo=Laravel-Best-Practices&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=MatthewYeend&repo=Java-Best-Practices&theme=dark)
+- [dashboard](https://github.com/MattYeend/dashboard)
+- [JavaBasics](https://github.com/MattYeend/JavaBasics)
+- [Python](https://github.com/MattYeend/Python)
+- [Java](https://github.com/MattYeend/Java)
+- [Python-Best-Practices](https://github.com/MatthewYeend/Python-Best-Practices)
+- [Laravel-Best-Practices](https://github.com/MatthewYeend/Laravel-Best-Practices)
+- [Java-Best-Practices](https://github.com/MatthewYeend/Java-Best-Practices)
 
 ---
 ![](https://komarev.com/ghpvc/?username=MattYeend&style=for-the-badge&color=blue)
