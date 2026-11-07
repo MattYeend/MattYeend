@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=MattYeend&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattYeend&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🐟 My Koi
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
